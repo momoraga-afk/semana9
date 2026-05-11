@@ -1,0 +1,14 @@
+C:\semana9\ventasTienda\bin\Debug\net10.0\ventasTienda.exe
+C:\semana9\ventasTienda\bin\Debug\net10.0\ventasTienda.deps.json
+C:\semana9\ventasTienda\bin\Debug\net10.0\ventasTienda.runtimeconfig.json
+C:\semana9\ventasTienda\bin\Debug\net10.0\ventasTienda.dll
+C:\semana9\ventasTienda\bin\Debug\net10.0\ventasTienda.pdb
+C:\semana9\ventasTienda\obj\Debug\net10.0\ventasTienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\semana9\ventasTienda\obj\Debug\net10.0\ventasTienda.AssemblyInfoInputs.cache
+C:\semana9\ventasTienda\obj\Debug\net10.0\ventasTienda.AssemblyInfo.cs
+C:\semana9\ventasTienda\obj\Debug\net10.0\ventasTienda.csproj.CoreCompileInputs.cache
+C:\semana9\ventasTienda\obj\Debug\net10.0\ventasTienda.dll
+C:\semana9\ventasTienda\obj\Debug\net10.0\refint\ventasTienda.dll
+C:\semana9\ventasTienda\obj\Debug\net10.0\ventasTienda.pdb
+C:\semana9\ventasTienda\obj\Debug\net10.0\ventasTienda.genruntimeconfig.cache
+C:\semana9\ventasTienda\obj\Debug\net10.0\ref\ventasTienda.dll

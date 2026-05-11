@@ -1,0 +1,14 @@
+C:\semana9\temp\bin\Debug\net10.0\temp.exe
+C:\semana9\temp\bin\Debug\net10.0\temp.deps.json
+C:\semana9\temp\bin\Debug\net10.0\temp.runtimeconfig.json
+C:\semana9\temp\bin\Debug\net10.0\temp.dll
+C:\semana9\temp\bin\Debug\net10.0\temp.pdb
+C:\semana9\temp\obj\Debug\net10.0\temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\semana9\temp\obj\Debug\net10.0\temp.AssemblyInfoInputs.cache
+C:\semana9\temp\obj\Debug\net10.0\temp.AssemblyInfo.cs
+C:\semana9\temp\obj\Debug\net10.0\temp.csproj.CoreCompileInputs.cache
+C:\semana9\temp\obj\Debug\net10.0\temp.dll
+C:\semana9\temp\obj\Debug\net10.0\refint\temp.dll
+C:\semana9\temp\obj\Debug\net10.0\temp.pdb
+C:\semana9\temp\obj\Debug\net10.0\temp.genruntimeconfig.cache
+C:\semana9\temp\obj\Debug\net10.0\ref\temp.dll
