@@ -1,0 +1,15 @@
+C:\semana9\videojuego\puntaje\bin\Debug\net10.0\puntaje.exe
+C:\semana9\videojuego\puntaje\bin\Debug\net10.0\puntaje.deps.json
+C:\semana9\videojuego\puntaje\bin\Debug\net10.0\puntaje.runtimeconfig.json
+C:\semana9\videojuego\puntaje\bin\Debug\net10.0\puntaje.dll
+C:\semana9\videojuego\puntaje\bin\Debug\net10.0\puntaje.pdb
+C:\semana9\videojuego\puntaje\obj\Debug\net10.0\puntaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\semana9\videojuego\puntaje\obj\Debug\net10.0\puntaje.AssemblyInfoInputs.cache
+C:\semana9\videojuego\puntaje\obj\Debug\net10.0\puntaje.AssemblyInfo.cs
+C:\semana9\videojuego\puntaje\obj\Debug\net10.0\puntaje.csproj.CoreCompileInputs.cache
+C:\semana9\videojuego\puntaje\obj\Debug\net10.0\puntaje.sourcelink.json
+C:\semana9\videojuego\puntaje\obj\Debug\net10.0\puntaje.dll
+C:\semana9\videojuego\puntaje\obj\Debug\net10.0\refint\puntaje.dll
+C:\semana9\videojuego\puntaje\obj\Debug\net10.0\puntaje.pdb
+C:\semana9\videojuego\puntaje\obj\Debug\net10.0\puntaje.genruntimeconfig.cache
+C:\semana9\videojuego\puntaje\obj\Debug\net10.0\ref\puntaje.dll
